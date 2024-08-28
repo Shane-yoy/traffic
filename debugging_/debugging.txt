@@ -1,0 +1,37 @@
+get_data.py
+
+# temp_df --> IndentationError
+# res_df --> sytaxError
+# traffic_status --> is missing
+# traffic_status --> remove
+# latitude --> lat
+# longitude --> lon
+# traffic_status --> trafficstatus
+
+#=-----------------------=#
+
+# utils.py
+# zoom=10 --> sytaxError
+
+
+#=-----------------------=#
+
+index.html --> home.html
+
+#=-----------------------=#
+
+app.py
+
+# cat_predict = prediction_from_model(model)
+
+# TypeError: prediction_from_model() 
+# missing 1 required positional argument: 'hour_to_predict'
+
+# deux arguments -->
+# cat_predict = prediction_from_model(model, selected_hour)
+
+
+#=-----------------------=#
+
+mise en place d'un requierement.txt et d'un venv
+mise en place error.log avec logging

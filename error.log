@@ -1,0 +1,54 @@
+2024-08-27 14:26:02,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 14:26:02,258 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 14:26:02,259 - INFO -  * Restarting with stat
+2024-08-27 14:26:06,152 - WARNING -  * Debugger is active!
+2024-08-27 14:26:06,153 - INFO -  * Debugger PIN: 136-749-603
+2024-08-27 14:26:07,663 - INFO - 127.0.0.1 - - [27/Aug/2024 14:26:07] "POST / HTTP/1.1" 200 -
+2024-08-27 14:26:10,811 - INFO - 127.0.0.1 - - [27/Aug/2024 14:26:10] "POST / HTTP/1.1" 200 -
+2024-08-27 14:26:12,342 - INFO - 127.0.0.1 - - [27/Aug/2024 14:26:12] "POST / HTTP/1.1" 200 -
+2024-08-27 14:26:15,769 - INFO - 127.0.0.1 - - [27/Aug/2024 14:26:15] "POST / HTTP/1.1" 200 -
+2024-08-27 14:26:55,471 - INFO - 127.0.0.1 - - [27/Aug/2024 14:26:55] "POST / HTTP/1.1" 200 -
+2024-08-27 14:27:00,046 - INFO - 127.0.0.1 - - [27/Aug/2024 14:27:00] "POST / HTTP/1.1" 200 -
+2024-08-27 14:27:01,472 - INFO - 127.0.0.1 - - [27/Aug/2024 14:27:01] "POST / HTTP/1.1" 200 -
+2024-08-27 14:27:06,233 - INFO - 127.0.0.1 - - [27/Aug/2024 14:27:06] "POST / HTTP/1.1" 200 -
+2024-08-27 14:46:31,180 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 14:46:31,181 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 14:46:31,183 - INFO -  * Restarting with stat
+2024-08-27 14:46:36,909 - WARNING -  * Debugger is active!
+2024-08-27 14:46:36,913 - INFO -  * Debugger PIN: 136-749-603
+2024-08-27 14:46:50,739 - INFO - 127.0.0.1 - - [27/Aug/2024 14:46:50] "POST / HTTP/1.1" 200 -
+2024-08-27 14:46:52,205 - INFO - 127.0.0.1 - - [27/Aug/2024 14:46:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-27 14:46:56,384 - INFO - 127.0.0.1 - - [27/Aug/2024 14:46:56] "POST / HTTP/1.1" 200 -
+2024-08-27 14:46:58,197 - INFO - 127.0.0.1 - - [27/Aug/2024 14:46:58] "POST / HTTP/1.1" 200 -
+2024-08-27 14:46:59,462 - INFO - 127.0.0.1 - - [27/Aug/2024 14:46:59] "POST / HTTP/1.1" 200 -
+2024-08-27 14:47:00,635 - INFO - 127.0.0.1 - - [27/Aug/2024 14:47:00] "POST / HTTP/1.1" 200 -
+2024-08-27 14:48:45,167 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:45] "POST / HTTP/1.1" 200 -
+2024-08-27 14:48:48,618 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:48] "POST / HTTP/1.1" 200 -
+2024-08-27 14:48:49,810 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:49] "POST / HTTP/1.1" 200 -
+2024-08-27 14:48:50,920 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:50] "POST / HTTP/1.1" 200 -
+2024-08-27 14:48:55,936 - INFO - 127.0.0.1 - - [27/Aug/2024 14:48:55] "POST / HTTP/1.1" 200 -
+2024-08-27 14:53:06,236 - INFO -  * Detected change in '/home/shaney/Bureau/rennes_traffic_ko/app.py', reloading
+2024-08-27 14:53:07,026 - INFO -  * Restarting with stat
+2024-08-27 15:34:29,609 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 15:34:29,609 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 15:34:29,610 - INFO -  * Restarting with stat
+2024-08-27 15:34:35,126 - WARNING -  * Debugger is active!
+2024-08-27 15:34:35,128 - INFO -  * Debugger PIN: 650-374-008
+2024-08-27 15:34:47,762 - INFO - 127.0.0.1 - - [27/Aug/2024 15:34:47] "POST / HTTP/1.1" 200 -
+2024-08-27 15:45:46,700 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 15:45:46,701 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 15:45:46,702 - INFO -  * Restarting with stat
+2024-08-27 15:45:51,899 - WARNING -  * Debugger is active!
+2024-08-27 15:45:51,899 - INFO -  * Debugger PIN: 178-648-415
+2024-08-27 15:46:01,778 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:01] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:04,140 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:04] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:05,303 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:05] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:08,526 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:08] "GET / HTTP/1.1" 200 -
+2024-08-27 15:46:11,609 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:11] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:18,207 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:18] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:19,434 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:19] "POST / HTTP/1.1" 200 -
+2024-08-27 15:46:22,205 - INFO - 127.0.0.1 - - [27/Aug/2024 15:46:22] "POST / HTTP/1.1" 200 -
